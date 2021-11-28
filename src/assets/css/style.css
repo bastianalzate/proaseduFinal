@@ -1,0 +1,15 @@
+* {
+  font-family: helvetica Arial;
+  margin: 0px; }
+
+.container-index {
+  min-height: 700px; }
+
+.container-noticias {
+  min-height: 700px; }
+
+.container-cursos {
+  min-height: 700px; }
+
+.container-contacto {
+  min-height: 700px; }

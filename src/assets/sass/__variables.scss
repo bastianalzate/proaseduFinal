@@ -1,0 +1,10 @@
+$fontPrimary: helvetica;
+$fontSecundary: Arial;
+$PrimaryColor: rgb(20, 20, 19);
+$FontColor: rgb(253, 250, 250);
+
+// general
+*{
+    font-family: $fontPrimary $fontSecundary;
+    margin: 0px;
+}
